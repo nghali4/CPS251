@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b32e9e3d-7045-42e1-bf12-9b5a7c6673e6" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/.android/avd/Pixel_2_API_30.avd/hardware-qemu.ini.lock" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.android/avd/Pixel_2_API_30.avd/snapshots/default_boot/ram.img.dirty" beforeDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/7.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/7.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/7.2/fileContent/fileContent.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/7.2/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/7.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/7.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/7.2/md-rule/md-rule.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/7.2/md-rule/md-rule.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/jars-9/jars-9.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/jars-9/jars-9.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/journal-1/file-access.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/journal-1/file-access.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/journal-1/journal-1.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/journal-1/journal-1.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-artifact.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-artifact.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-artifacts.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-artifacts.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-metadata.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-metadata.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-versions.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/module-versions.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/resource-at-url.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/modules-2/metadata-2.97/resource-at-url.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/modules-2/modules-2.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/modules-2/modules-2.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/caches/transforms-3/transforms-3.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/caches/transforms-3/transforms-3.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/daemon/7.2/registry.bin" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/daemon/7.2/registry.bin" afterDir="false" />
+      <change beforePath="$USER_HOME$/CPS251/Project1/daemon/7.2/registry.bin.lock" beforeDir="false" afterPath="$USER_HOME$/CPS251/Project1/daemon/7.2/registry.bin.lock" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/AndroidStudio2021.1/index/stubs/org.jetbrains.kotlin.idea.stubindex.kotlinsuperclassindex/org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/AndroidStudio2021.1/index/stubs/org.jetbrains.kotlin.idea.stubindex.kotlinsuperclassindex/org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/018a618547e035fb_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/018a618547e035fb_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/018a65d854f09578_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/018a65d854f09578_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/040d00cb1f6d4e89_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/040d00cb1f6d4e89_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/0a74440cae75b7c5_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/0a74440cae75b7c5_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/0c4afc4f0b99668e_0" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/11eb243f8c7ae626_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/11eb243f8c7ae626_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/121b1c5eb2d1622d_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/121b1c5eb2d1622d_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/12c08856e7f74286_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/12c08856e7f74286_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/16f43c98ddb0b7f3_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/16f43c98ddb0b7f3_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/1afcc0d078bb5c43_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/1afcc0d078bb5c43_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/1e2d2d1f08c0ec84_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/1e2d2d1f08c0ec84_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/1e6c702d3c6a9bc5_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/1e6c702d3c6a9bc5_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/20f39bdae102a56b_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/20f39bdae102a56b_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/23d9ec8c1ea89ac2_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/23d9ec8c1ea89ac2_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/24461810f9a856bb_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/24461810f9a856bb_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/24d1c1430504dab4_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/24d1c1430504dab4_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/24df1335e1eb4b7f_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/24df1335e1eb4b7f_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/261e67f0fb884877_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/261e67f0fb884877_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/26ac831864c87caa_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/26ac831864c87caa_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/2a129a78ede7aaf7_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/2a129a78ede7aaf7_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/31ef5b3589aef439_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/31ef5b3589aef439_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/32376cd6d1503869_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/32376cd6d1503869_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/366a1aab19053c9a_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/366a1aab19053c9a_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/3768c49623a592a3_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/3768c49623a592a3_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/3bd5520836e9df32_0" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/3cece3a08fe933d1_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/3cece3a08fe933d1_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/42d27106a098ab3e_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/42d27106a098ab3e_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/44477c64b9bacb53_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/44477c64b9bacb53_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/4506f54b2c9b3371_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/4506f54b2c9b3371_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/457ac14a431061fa_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/457ac14a431061fa_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/46aed6952f1fced5_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/46aed6952f1fced5_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/554a62801ee600ad_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/554a62801ee600ad_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/55a8b8798dfa75d1_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/55a8b8798dfa75d1_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/55fd3426f3d7c7d2_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/55fd3426f3d7c7d2_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/566c4b6f359c3a18_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/566c4b6f359c3a18_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/56c0c28322e6d1c1_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/56c0c28322e6d1c1_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/58400ada0aa05d98_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/58400ada0aa05d98_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5a290e4cec3d5d81_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5a290e4cec3d5d81_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5bb8d6a90022c975_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5bb8d6a90022c975_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5be9acdb39883f57_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5be9acdb39883f57_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5e0a9c1451680de8_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5e0a9c1451680de8_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5f6f82728e918ad5_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/5f6f82728e918ad5_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6accb6e33d7a96d5_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6accb6e33d7a96d5_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6d2338de52f3c46f_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6d2338de52f3c46f_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6e6bfcbcd96a4131_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6e6bfcbcd96a4131_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6fe20660af692f8c_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6fe20660af692f8c_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6ff7e5ee3509ed53_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/6ff7e5ee3509ed53_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/72af399f4c6a5069_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/72af399f4c6a5069_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/739ccbbf455da066_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/739ccbbf455da066_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/7756815d865ffb88_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/7756815d865ffb88_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/77ba54d23ec2d47d_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/77ba54d23ec2d47d_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/7dbb27a25b0184b7_0" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/801dc6f572738881_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/801dc6f572738881_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/8027668908e9372c_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/8027668908e9372c_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/8150b5d443baa7a7_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/8150b5d443baa7a7_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/819a804c202f5b80_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/819a804c202f5b80_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/82197e09976c9a1b_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/82197e09976c9a1b_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/886b09c04a45ae90_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/886b09c04a45ae90_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/938ae3ab2c085d64_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/938ae3ab2c085d64_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9a568ce6f1ff85e8_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9a568ce6f1ff85e8_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9a62c1befd1ea810_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9a62c1befd1ea810_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9ac8a1de15658554_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9ac8a1de15658554_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9adaaa6cf45f1144_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9adaaa6cf45f1144_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9b4a3c3fc06ab43e_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/9b4a3c3fc06ab43e_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/a095c05c5e60dc4f_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/a095c05c5e60dc4f_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/a15f78c37e57f276_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/a15f78c37e57f276_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/a2127903bce5037d_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/a2127903bce5037d_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/aa71d4b4ffab23a6_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/aa71d4b4ffab23a6_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b09320ec95931c74_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b09320ec95931c74_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b3229f4bc23f53ed_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b3229f4bc23f53ed_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b3b3218e0937edd4_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b3b3218e0937edd4_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b4c0c82595a25b80_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/b4c0c82595a25b80_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c6d6b781b44886ea_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c6d6b781b44886ea_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c71c636235541620_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c71c636235541620_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c7be9daec6e1d4bd_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c7be9daec6e1d4bd_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c8dce59e9aec3029_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/c8dce59e9aec3029_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/cad04337e085e9cb_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/cad04337e085e9cb_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/cf83c5bef6728f40_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/cf83c5bef6728f40_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d20bf0728b9a1726_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d20bf0728b9a1726_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d3e3658b1eaaf542_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d3e3658b1eaaf542_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d5269f355b249f16_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d5269f355b249f16_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d73bd5edcec8e0b3_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/d73bd5edcec8e0b3_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/dc5e70e553212bd6_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/dc5e70e553212bd6_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/df617a199bdcbd7a_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/df617a199bdcbd7a_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/dfc925a34691707d_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/dfc925a34691707d_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/e0a95cdcb7dd505e_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/e0a95cdcb7dd505e_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/e6291a50798a465f_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/e6291a50798a465f_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/e89c80da00a9087c_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/e89c80da00a9087c_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/eb721a05e1f2754d_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/eb721a05e1f2754d_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f1e5c8771b442aff_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f1e5c8771b442aff_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f25c1df9071ebf9e_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f25c1df9071ebf9e_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f6a54e774a42fbdf_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f6a54e774a42fbdf_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f9a4b4163f68b5cb_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f9a4b4163f68b5cb_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f9f79daa9ced88e8_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/f9f79daa9ced88e8_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fb810888cc1cecda_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fb810888cc1cecda_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fbb5f5e98393c0a8_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fbb5f5e98393c0a8_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fd77417c60ee6acd_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fd77417c60ee6acd_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fe30b99f52f39e21_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fe30b99f52f39e21_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fe93d50060bb35c3_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/fe93d50060bb35c3_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/ff4499b4f8ddd95e_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Cache/Cache_Data/ff4499b4f8ddd95e_0" afterDir="false" />
+      <change beforePath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Code Cache/js/d6a2d0c67cdc6832_0" beforeDir="false" afterPath="$USER_HOME$/Library/Caches/Google/Chrome/Default/Code Cache/js/d6a2d0c67cdc6832_0" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/noorghali/.android/avd/Pixel_2_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="ProjectId" id="26RWHHq4lx0XHZlOFuMxDz9MAGM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ViewModelDemo.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b32e9e3d-7045-42e1-bf12-9b5a7c6673e6" name="Default Changelist" comment="" />
+      <created>1647386789630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647386789630</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

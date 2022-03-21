@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_activity.xml",
+        "source": "/Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_fragment.xml",
+        "source": "/Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/res/layout/main_fragment.xml"
+    }
+]

@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/3dedc4bcbffa516d7f375aaf7f368a65/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/b6dc018a4c23e5dd26b16df1dbcf24ae/transformed/databinding-ktx-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/fde9de6e314dcb0b6fcd9faa6dd2db59/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/9e21cc8bbdda92c9a5a7f7093138a385/transformed/viewbinding-7.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/e36350ed45b7c94c80f05f047a392b9f/transformed/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/071f3b32fd142a653db1ae0c9733cadd/transformed/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/3c7e3684ce1afa4d31cf8b58eea2c341/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/fa0cb1bd96afbfb1b3744f75e976cf2d/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/dd1e314f1636c94960cbee077180fda7/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/noorghali/.gradle/caches/transforms-3/7c10a0f6840a655a27f9d205e2636607/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/noorghali/.gradle/caches/transforms-3/4925ae6a0757f5dd3a8c17f1e7161b25/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/dcf0595820c3570f7403ee0b6f735b13/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/470c00e697adbbee2a1a1ae7f8f79b71/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/553544cbe049fbbbd8844216053498b5/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/bf2cdd53f5d99cb94dd0b2362f5cb6d7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/39ca57b1862735d24b2113ff46b3ee2d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/1e6c79c94d2cdd3dceb23532e2610642/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/b730e08c0858616d3a0b3b02c46e43f2/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/8c69621a536ad5bc8793e3aa60697bbb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/9fc535de7baa0c4acd7040a6ed47790b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/8e9d50b91f115a163b03baf910f74bc1/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/a5ad0a3697ba7071ef8f2be6295e88ef/transformed/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/04707681cd17c6ee3497448c77b4fa80/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/81bfbf558bf91f2886ec953fef4da138/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/78b22804c35affb071126fb1bbf77248/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/7e8bf8b2c9c30a5001aa4bef3a0f54ad/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/d2e4efe1cd3b7445e8ae5373ecada503/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/9959a21b737a415a464393ebeb4ced07/transformed/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/538885ee8e797520ad2da6a31cb18126/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9e009a6980f87ec0677e497587c35f50/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/717588ed5c1c3ca85c804aed790a13c0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/758c1a46403c7fb83f775f3a576010ab/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/a21b97312cd6a3c3ad76152b79cc2f9b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/d953419024f061a8db6b5c1bf385bc2f/transformed/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/e72b8714f48575276b062c39f941cbe4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/7a06ca65eb1773345bdfed881984c9de/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/55dd7a85e586c04b4ed299190152c259/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/noorghali/.gradle/caches/transforms-3/08e74b14a4bc7e3e9d83db7f8c47224f/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/a086bb42514c2cc51741508d97a63f3e/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/cc2f2db17831c35896ceb3c8a0e08620/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/df39b9afabacda692f3fadd274711a10/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/52383a46e1182f6c8a0d53ea52227001/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/b7ea328057ffe7b3151f02732eae6681/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/5af27cd61938c75cdd53e4a0f47f36a4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/90b77246a005f49eaa897ba129d90ece/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/noorghali/.gradle/caches/transforms-3/7c10a0f6840a655a27f9d205e2636607/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/noorghali/.gradle/caches/transforms-3/7c10a0f6840a655a27f9d205e2636607/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/noorghali/.gradle/caches/transforms-3/4925ae6a0757f5dd3a8c17f1e7161b25/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/noorghali/.gradle/caches/transforms-3/4925ae6a0757f5dd3a8c17f1e7161b25/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/470c00e697adbbee2a1a1ae7f8f79b71/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/470c00e697adbbee2a1a1ae7f8f79b71/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/538885ee8e797520ad2da6a31cb18126/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/538885ee8e797520ad2da6a31cb18126/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/cc2f2db17831c35896ceb3c8a0e08620/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/cc2f2db17831c35896ceb3c8a0e08620/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/538885ee8e797520ad2da6a31cb18126/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.ebookfrenzy.viewmodeldemo.MainActivity
+ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/3dedc4bcbffa516d7f375aaf7f368a65/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/3dedc4bcbffa516d7f375aaf7f368a65/transformed/databinding-adapters-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/b6dc018a4c23e5dd26b16df1dbcf24ae/transformed/databinding-ktx-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/b6dc018a4c23e5dd26b16df1dbcf24ae/transformed/databinding-ktx-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/fde9de6e314dcb0b6fcd9faa6dd2db59/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/fde9de6e314dcb0b6fcd9faa6dd2db59/transformed/databinding-runtime-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/9e21cc8bbdda92c9a5a7f7093138a385/transformed/viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] /Users/noorghali/.gradle/caches/transforms-3/9e21cc8bbdda92c9a5a7f7093138a385/transformed/viewbinding-7.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/e36350ed45b7c94c80f05f047a392b9f/transformed/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/e36350ed45b7c94c80f05f047a392b9f/transformed/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/071f3b32fd142a653db1ae0c9733cadd/transformed/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/071f3b32fd142a653db1ae0c9733cadd/transformed/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/3c7e3684ce1afa4d31cf8b58eea2c341/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/3c7e3684ce1afa4d31cf8b58eea2c341/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/fa0cb1bd96afbfb1b3744f75e976cf2d/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/fa0cb1bd96afbfb1b3744f75e976cf2d/transformed/lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/dd1e314f1636c94960cbee077180fda7/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/dd1e314f1636c94960cbee077180fda7/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/noorghali/.gradle/caches/transforms-3/7c10a0f6840a655a27f9d205e2636607/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/noorghali/.gradle/caches/transforms-3/7c10a0f6840a655a27f9d205e2636607/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/noorghali/.gradle/caches/transforms-3/4925ae6a0757f5dd3a8c17f1e7161b25/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/noorghali/.gradle/caches/transforms-3/4925ae6a0757f5dd3a8c17f1e7161b25/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/dcf0595820c3570f7403ee0b6f735b13/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/dcf0595820c3570f7403ee0b6f735b13/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/470c00e697adbbee2a1a1ae7f8f79b71/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/470c00e697adbbee2a1a1ae7f8f79b71/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/553544cbe049fbbbd8844216053498b5/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/553544cbe049fbbbd8844216053498b5/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/bf2cdd53f5d99cb94dd0b2362f5cb6d7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/bf2cdd53f5d99cb94dd0b2362f5cb6d7/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/39ca57b1862735d24b2113ff46b3ee2d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/39ca57b1862735d24b2113ff46b3ee2d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/1e6c79c94d2cdd3dceb23532e2610642/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/1e6c79c94d2cdd3dceb23532e2610642/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/b730e08c0858616d3a0b3b02c46e43f2/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/b730e08c0858616d3a0b3b02c46e43f2/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/8c69621a536ad5bc8793e3aa60697bbb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/8c69621a536ad5bc8793e3aa60697bbb/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/9fc535de7baa0c4acd7040a6ed47790b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/9fc535de7baa0c4acd7040a6ed47790b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/8e9d50b91f115a163b03baf910f74bc1/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/8e9d50b91f115a163b03baf910f74bc1/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/a5ad0a3697ba7071ef8f2be6295e88ef/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/noorghali/.gradle/caches/transforms-3/a5ad0a3697ba7071ef8f2be6295e88ef/transformed/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/04707681cd17c6ee3497448c77b4fa80/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/04707681cd17c6ee3497448c77b4fa80/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/81bfbf558bf91f2886ec953fef4da138/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/81bfbf558bf91f2886ec953fef4da138/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/78b22804c35affb071126fb1bbf77248/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/78b22804c35affb071126fb1bbf77248/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/7e8bf8b2c9c30a5001aa4bef3a0f54ad/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/7e8bf8b2c9c30a5001aa4bef3a0f54ad/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/d2e4efe1cd3b7445e8ae5373ecada503/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/d2e4efe1cd3b7445e8ae5373ecada503/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/9959a21b737a415a464393ebeb4ced07/transformed/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/9959a21b737a415a464393ebeb4ced07/transformed/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/538885ee8e797520ad2da6a31cb18126/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/noorghali/.gradle/caches/transforms-3/538885ee8e797520ad2da6a31cb18126/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9e009a6980f87ec0677e497587c35f50/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9e009a6980f87ec0677e497587c35f50/transformed/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/717588ed5c1c3ca85c804aed790a13c0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/717588ed5c1c3ca85c804aed790a13c0/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/758c1a46403c7fb83f775f3a576010ab/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/758c1a46403c7fb83f775f3a576010ab/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/a21b97312cd6a3c3ad76152b79cc2f9b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/a21b97312cd6a3c3ad76152b79cc2f9b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/d953419024f061a8db6b5c1bf385bc2f/transformed/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/d953419024f061a8db6b5c1bf385bc2f/transformed/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/e72b8714f48575276b062c39f941cbe4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/e72b8714f48575276b062c39f941cbe4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/7a06ca65eb1773345bdfed881984c9de/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/7a06ca65eb1773345bdfed881984c9de/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/55dd7a85e586c04b4ed299190152c259/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/noorghali/.gradle/caches/transforms-3/55dd7a85e586c04b4ed299190152c259/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/noorghali/.gradle/caches/transforms-3/08e74b14a4bc7e3e9d83db7f8c47224f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/noorghali/.gradle/caches/transforms-3/08e74b14a4bc7e3e9d83db7f8c47224f/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/a086bb42514c2cc51741508d97a63f3e/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/a086bb42514c2cc51741508d97a63f3e/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/cc2f2db17831c35896ceb3c8a0e08620/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/noorghali/.gradle/caches/transforms-3/cc2f2db17831c35896ceb3c8a0e08620/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/df39b9afabacda692f3fadd274711a10/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/df39b9afabacda692f3fadd274711a10/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/52383a46e1182f6c8a0d53ea52227001/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/52383a46e1182f6c8a0d53ea52227001/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/b7ea328057ffe7b3151f02732eae6681/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/b7ea328057ffe7b3151f02732eae6681/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/5af27cd61938c75cdd53e4a0f47f36a4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/5af27cd61938c75cdd53e4a0f47f36a4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/90b77246a005f49eaa897ba129d90ece/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/noorghali/.gradle/caches/transforms-3/90b77246a005f49eaa897ba129d90ece/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/noorghali/Downloads/chapter43_ViewModelDemo_DataBinding/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/noorghali/.gradle/caches/transforms-3/9f8fde1f7ba5a220fb04156d088c2fa0/transformed/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
