@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewModelDemo</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="convert">Convert</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_name">Add Name</string>
+    <string name="no_names_to_display">No Names To display</string>
+</resources>
